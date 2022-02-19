@@ -1,10 +1,10 @@
 ## Welcome to LightningCK Official Site!
 
-### Simple Bot
+### Testing
 
-How to make a simple discord bot
-
-```LOL
+```
 i'm lazy now
 ```
-Testing Website UwU
+
+
+That's Only Testing Website LOL
