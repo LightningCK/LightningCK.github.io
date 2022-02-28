@@ -1,7 +1,7 @@
 ## Lightning Bot
 \n
 ### About Bot
-Lightning Bot is Thai Bot for discord server and have many command
+Lightning Bot is Thai Bot for discord server and have many command\n
 Example: Music command, Help Command, Say Command, Calculate Command and more!
 \n
 ### Invite Bot
