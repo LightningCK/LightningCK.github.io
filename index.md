@@ -1,17 +1,13 @@
-## รวมมิตรสกิดไข่ X
-### เกี่ยวกับเซิร์ฟเวอร์
+## LightningCK
+### ดิสคอร์ด
+ย้ายที่อยู่เว็บสำหรับเข้าดิสคอร์ด<br/>
+**ลิ้งค์เว็บ: [https://lightningck.github.io/discord](https://lightningck.github.io/discord)**<br/>
 
-**ลิ้งค์เชิญ: [https://discord.gg/9XM9vXMAbQ](https://discord.gg/9XM9vXMAbQ)**<br/>
+### About Me
+เว็บไซต์นี้สร้างขึ้นโดย LightningCK<br/>
+Youtube: [LightningCK](https://www.youtube.com/channel/UCvm-Da5-7E9tiudZFE2SKEw)<br/>
 
-เซิร์ฟเวอร์นี้เป็นเซิร์ฟเวอร์สำรองของ "รวมมิตรสกิดไข่"<br/>
-โดยมีระบบต่างๆเพิ่มเข้ามาเพื่อให้เกิดความสมดุล<br/>
-และระบบยังไม่สมบูรณ์ (V.0.1.2)<br/>
-
-### อัพเดทล่าสุด V.0.1.2:   
-สร้างห้องต่างๆตั้งค่าเพิ่มเติมและ<br/>
-ปรับความสมดุลยศ 11/6/2565<br/>
-รายละเอียดอยู่ในหน้า #ประกาศต่างๆ ในดิสคอร์ด<br/>
 <br/>
 <br/>
 <br/>
-### ปรับปรุงระบบและสร้างเซิร์ฟเวอร์โดย LightningCK
+### สร้างเว็บไซต์โดย LightningCK (ธีมเว็บไซต์จาก Github)
