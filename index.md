@@ -5,7 +5,7 @@
 Youtube: [LightningCK](https://www.youtube.com/channel/UCvm-Da5-7E9tiudZFE2SKEw)<br/>
 
 ### Discord ต่างๆ
->> [https://lightningck.github.io/discord](https://lightningck.github.io/discord)<br/>
+[https://lightningck.github.io/discord](https://lightningck.github.io/discord)<br/>
 <br/>
 <br/>
 <br/>
