@@ -1,11 +1,17 @@
-## LightningCK
+## LightningCK Website
+### Menu Website
+• MVSK File [เข้าชม](https://lightningck.github.io/mvsk) <br/>
+• Discord Invite [เข้าชม](https://lightningck.github.io/discord) <br/>
+
 ### About Me
-
-เว็บไซต์นี้สร้างขึ้นโดย LightningCK<br/>
-Youtube: [LightningCK](https://www.youtube.com/channel/UCvm-Da5-7E9tiudZFE2SKEw)<br/>
-
-### Discord ต่างๆ
-[https://lightningck.github.io/discord](https://lightningck.github.io/discord)<br/>
+Youtube: LightningCK [ดูช่อง](https://www.youtube.com/channel/UCvm-Da5-7E9tiudZFE2SKEw) <br/>
+Planet Minecraft: LightningCK [ดูโปรไฟล์](https://www.planetminecraft.com/member/lightningck/) <br/>
+Patreon: LightningCK [ดูโปรไฟล์](https://www.patreon.com/lightningck) <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
