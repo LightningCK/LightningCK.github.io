@@ -137,8 +137,8 @@ li:hover {
 }
 
 .headtext {
-	margin-top: -420px;
-	margin-left: 1150px;
+	margin-top: -22%;
+	margin-left: 60%;
 	width: 500px;
 }
 
@@ -206,7 +206,6 @@ li:hover {
 .video-protect {
 	height: 36.8%;
 	width: 64%;
-	background-color: rgb(57, 57, 57);
 }
 
 .feel-main-container {
